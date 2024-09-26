@@ -12,12 +12,6 @@ Ich bin ein ehemaliger Profisportler und habe den Schritt in die IT-Welt gewagt 
 
 🌏 **Ich komme aus:** Deutschland
 
-🔈 **Ich spreche:**
-  
-  - Deutsch
-  - Englisch
-  - Arabisch
-  - Bosnisch
 
 <!-- Hier wird meine Statistik angezeigt, die ich erst nach viel Arbeit sichbar erscheinen lasse:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DamianToromanovic&show_icons=true&theme=highcontrast)-->
