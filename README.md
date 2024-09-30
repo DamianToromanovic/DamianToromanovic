@@ -2,7 +2,7 @@
 
 📣 **Über mich**
 
-Ich bin ein ehemaliger Profisportler und habe den Schritt in die IT-Welt gewagt und Leidenschaft für das coden entwickelt. Ich lerne jeden Tag neue Konzepte und Technologien und arbeite an spannenden Projekten, die mich dabei unterstützen mein Wissen zu verteifen. 
+Ich bin ein ehemaliger Profisportler und habe den Schritt in die IT-Welt gewagt und Leidenschaft für das coden entwickelt. Ich lerne jeden Tag neue Konzepte und Technologien und arbeite an spannenden Projekten, die mich dabei unterstützen mein Wissen zu vertiefen. 
 
 🔍 **Ich lerne aktuell:**
  
