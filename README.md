@@ -10,7 +10,7 @@ Ich bin ein ehemaliger Profisportler und habe den Schritt in die IT-Welt gewagt 
  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logo-Color=white&style=for-the-badge)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript3&logo-Color=black&style=for-the-badge)
 
-🌏 **Ich komme aus:** Deutschland
+🌏 **Ich komme aus:** 🇩🇪 🇧🇦
 
 
 <!-- Hier wird meine Statistik angezeigt, die ich erst nach viel Arbeit sichbar erscheinen lasse:
