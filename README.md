@@ -1,16 +1,20 @@
-## 👋 Hey, Ich bin Damian
+# Hey there, I' Damian
 
-📣 **Über mich**
+  
+📣 **About me**
 
-Ich bin ein ehemaliger Profisportler und habe den Schritt in die IT-Welt gewagt und Leidenschaft für das coden entwickelt. Ich lerne jeden Tag neue Konzepte und Technologien und arbeite an spannenden Projekten, die mich dabei unterstützen mein Wissen zu vertiefen. 
 
-🔍 **Ich lerne aktuell:**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&width=435&lines=Next-gen+Developer" alt="Typing SVG" />
+</p>
+
+🔍 **Currently learning:**
  
  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html15&logo-Color=white&style=for-the-badge)
  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logo-Color=white&style=for-the-badge)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript3&logo-Color=black&style=for-the-badge)
 
-🌏 **Ich komme aus:** 🇩🇪 🇧🇦
+🌏 **I'm from:** 🇩🇪 🇧🇦
 
 
 <!-- Hier wird meine Statistik angezeigt, die ich erst nach viel Arbeit sichbar erscheinen lasse:
@@ -18,7 +22,7 @@ Ich bin ein ehemaliger Profisportler und habe den Schritt in die IT-Welt gewagt 
 
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DamianToromanovic&theme=highcontrast)
 
- 📬 **Wie du mich erreichst**
+ 📬 **Contact me**
 
   [Meine E-mail](d.toromanovic@web.de)
 
