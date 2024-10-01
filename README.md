@@ -1,4 +1,4 @@
-# Hey there, I' Damian
+# Hey there, I'm Damian
 
   
 📣 **About me**
