@@ -4,9 +4,7 @@
 📣 **About me**
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&width=435&lines=Next-gen+Developer" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&width=435&lines=Next-gen+Developer" alt="Typing SVG" />
 
 🔍 **Currently learning:**
  
