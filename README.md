@@ -16,7 +16,8 @@ Focused on **React**, **TailwindCSS**, and **JavaScript**.
 ---
 
 ### 🌱 **Currently Learning**:
-**Diving deeper and deeper in** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logo-color=black&style=for-the-badge)
+**Diving deeper and deeper in** 
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logo-color=black&style=for-the-badge)
 
 ---
 
