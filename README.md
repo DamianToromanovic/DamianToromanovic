@@ -1,28 +1,56 @@
-# Hey there, I'm Damian
+# 👋 Hi, I'm Damian!
 
+## 🚀 About Me
+
+I am a passionate and **Next-Gen Developer** focused on **building amazing user experiences**. I enjoy creating **dynamic** and **responsive websites** using modern web technologies. I'm a **tech enthusiast** always looking to expand my knowledge and skills.
+
+🔍 **Currently learning**:
+
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logo-color=white&style=for-the-badge)
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logo-color=white&style=for-the-badge)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logo-color=black&style=for-the-badge)
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logo-color=black&style=for-the-badge)
+- ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logo-color=white&style=for-the-badge)
+
+🌱 **What I’m working on:**
+- Developing interactive, dynamic web applications using **React**.
+- Experimenting with **Tailwind CSS** for creating beautiful, responsive, and flexible UI designs.
+- Learning about **state management** and **performance optimization** in React applications.
   
-📣 **About me**
+💡 **Future Tech Stack Interests**:
+- **TypeScript**: Adding strong typing to my JavaScript code to make it more scalable and maintainable.
+- **Node.js**: Exploring server-side programming to complement my frontend skills and build full-stack applications.
+- **GraphQL**: Mastering modern data-fetching techniques for more efficient data management.
+  
+---
 
+## 🌍 Where I’m from
+I'm originally from **Germany** 🇩🇪 and **Bosnia** 🇧🇦.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&width=435&lines=Next-gen+Developer" alt="Typing SVG" />
+---
 
-🔍 **Currently learning:**
- 
- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html15&logo-Color=white&style=for-the-badge)
- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logo-Color=white&style=for-the-badge)
- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript3&logo-Color=black&style=for-the-badge)
+## 📬 Contact Me
+Feel free to reach out to me via email at:  
+[📧 d.toromanovic@web.de](mailto:d.toromanovic@web.de)
 
-🌏 **I'm from:** 🇩🇪 🇧🇦
+---
 
+## 🛠️ My Tech Stack
+- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS
+- **Tools & Libraries**: Git, GitHub, VS Code, Node.js, NPM
+- **Design**: Figma, Adobe XD
+- **Other**: REST APIs, Firebase, Markdown
 
-<!-- Hier wird meine Statistik angezeigt, die ich erst nach viel Arbeit sichbar erscheinen lasse:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DamianToromanovic&show_icons=true&theme=highcontrast)-->
+---
 
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DamianToromanovic&theme=highcontrast)
+## 📊 GitHub Stats
 
- 📬 **Contact me**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DamianToromanovic&show_icons=true&theme=radical)
 
-  [Meine E-mail](d.toromanovic@web.de)
+## 📈 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DamianToroman
+
 
 
 <!--
