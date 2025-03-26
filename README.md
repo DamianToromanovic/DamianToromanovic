@@ -16,8 +16,7 @@ Focused on **React**, **TailwindCSS**, and **JavaScript**.
 ---
 
 ### 🌱 **Currently Learning**:
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logo-color=white&style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logo-color=white&style=for-the-badge)
+**Diving deeper and deeper in** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logo-color=black&style=for-the-badge)
 
 ---
 
