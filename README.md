@@ -7,9 +7,10 @@
 ### 💻 **Tech Stack:**
 
 <img align="left" alt="React" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-<img align="left" alt="TailwindCSS" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="Tailwind CSS" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="JavaScript" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Node.js" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="MongoDB" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="HTML5" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 
