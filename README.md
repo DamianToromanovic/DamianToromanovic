@@ -1,37 +1,42 @@
 # 👋 Hi, I'm Damian
 
-### 🚀 **Next-Gen Developer**  
-Focused on **React**, **TailwindCSS**, and **JavaScript**.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=500&color=38B2AC&width=400&lines=%F0%9F%9A%80+Next-Gen+Developer)
 
 ---
 
-### 💻 **Tech Stack**:
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logo-color=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logo-color=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logo-color=black&style=for-the-badge)
- - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logo-color=black&style=for-the-badge)
- - ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logo-color=white&style=for-the-badge)
- - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logo-color=white&style=for-the-badge)
+### 💻 **Tech Stack:**
+
+<img align="left" alt="React" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img align="left" alt="TailwindCSS" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="JavaScript" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Node.js" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="HTML5" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+
+<br/><br/>
 
 ---
 
-### 🌱 **Currently Learning**:
-**Diving deeper and deeper in** 
- - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logo-color=black&style=for-the-badge)
+### 🌱 **Currently Learning:**
+
+**Diving deeper into**
+
+<img alt="React" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 
 ---
 
-### 📍 **From**:  
+### 📍 **From:**  
 🇩🇪 **Germany** | 🇧🇦 **Bosnia**
 
 ---
 
-### 📬 **Contact**:  
+### 📬 **Contact:**  
 [📧 d.toromanovic@web.de](mailto:d.toromanovic@web.de)
 
 ---
 
-### 🚀 **Projects**:  
+### 🚀 **Projects:**  
+- **CRM System** 🗂️
 - **To-Do List** 📝
 - **Weather App** 🌤
 - **Budget Tracker** 💰
@@ -39,3 +44,4 @@ Focused on **React**, **TailwindCSS**, and **JavaScript**.
 ---
 
 **Let's build the future together!** 🌐
+
