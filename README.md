@@ -11,11 +11,11 @@
 <img align="left" alt="Node.js" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="JavaScript" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-<img align="left" alt="PostgreSQL" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+
 <img align="left" alt="MongoDB" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Supabase" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" />
 <img align="left" alt="TailwindCSS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+
 
 <br/><br/><br/>
 
