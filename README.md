@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Damian  
 
-🚀 **Fullstack & Mobile Developer** | Ex-Professional Athlete | Building Scalable Apps  
+🚀 **Fullstack Developer** | Ex-Professional Athlete | Building Scalable Apps  
 
 ---
 
