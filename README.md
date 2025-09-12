@@ -15,12 +15,11 @@
   <img alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   <img alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img alt="TailwindCSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  
   <img alt="ShadCN/UI" width="35px" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" />
-  </p>
+</p>
 
   <!-- Backend -->
-  <p>
+<p>
   <img alt="Node.js" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img alt="Express" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
   <img alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
@@ -28,13 +27,16 @@
   <img alt="Supabase" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" />
   <img alt="Prisma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
 </p>
+
   <!-- DevOps -->
+<p>
   <img alt="Docker" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
   <img alt="GitHub Actions" width="35px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" />
   <img alt="Vercel" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" />
-  
- </div>
-
+  <img alt="Coolify" width="35px" src="https://avatars.githubusercontent.com/u/79145154?s=200&v=4" />
+  <img alt="Hetzner" width="35px" src="https://avatars.githubusercontent.com/u/12443028?s=200&v=4" />
+</p>
+</div>
 
 ---
 
@@ -53,7 +55,6 @@ I’m Damian, a **former professional handball player** turned fullstack develop
 The discipline, teamwork, and resilience from my sports career now fuel my coding journey.  
 
 I focus on **building scalable, production-ready applications** — from SaaS platforms to mobile apps.  
- 
 
 ---
 
@@ -63,4 +64,15 @@ I focus on **building scalable, production-ready applications** — from SaaS pl
 ---
 
 ### 📬 **Contact**
-[📧 d.toromanovic@web.de](mailto:d.toromanovic@web.de) • [LinkedIn](https://linkedin.com/in/...) • [Portfolio](https://your-portfolio.com)
+[📧 d.toromanovic@web.de](mailto:d.toromanovic@web.de) • [LinkedIn](https://linkedin.com/in/...) • [Portfolio](https://your-portfolio.com)  
+
+---
+
+### 📊 **GitHub Stats**
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DamianToromanovic&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="450" />
+</p>
+
+
