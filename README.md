@@ -33,8 +33,6 @@
   <img alt="Docker" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
   <img alt="GitHub Actions" width="35px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" />
   <img alt="Vercel" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" />
-  <img alt="Coolify" width="35px" src="https://avatars.githubusercontent.com/u/79145154?s=200&v=4" />
-  <img alt="Hetzner" width="35px" src="https://avatars.githubusercontent.com/u/12443028?s=200&v=4" />
 </p>
 </div>
 
