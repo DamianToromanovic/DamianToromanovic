@@ -62,7 +62,7 @@ I focus on **building scalable, production-ready applications** — from SaaS pl
 ---
 
 ### 📬 **Contact**
-[📧 d.toromanovic@web.de](mailto:d.toromanovic@web.de) • [LinkedIn](https://linkedin.com/in/...) • [Portfolio](https://your-portfolio.com)  
+[📧 d.toromanovic@web.de](mailto:d.toromanovic@web.de) • [LinkedIn](https://linkedin.com/in/...)   
 
 ---
 
