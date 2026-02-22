@@ -1,70 +1,62 @@
-# 👋 Hi, I'm Damian  
+# 👋 Hi, I'm Damian | Code & Competition 
 
-🚀 **Fullstack Developer** | Ex-Professional Athlete | Building Scalable Apps  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DamianToromanovic&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 💻 **Tech Stack**
-<div>
+### 🚀 About Me
+- 🏆 **Ex-Professional Athlete**: 6 years in the 2nd Handball Bundesliga. I bring pro-level discipline and teamwork to the terminal.
+- 💻 **Fullstack Developer**: Passionate about building robust, scalable applications and clean architectures.
+- 📚 **CS Student**: Combining deep practical experience with academic foundations (starting 03/26).
+
+---
+
+### 🛠️ My Toolbox
+
 <p align="left">
-
-  <!-- Frontend -->
-  <img alt="React" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img alt="Next.js" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
-  <img alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img alt="TailwindCSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img alt="ShadCN/UI" width="35px" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" />
+  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+  <br />
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></a>
+  <br />
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-  <!-- Backend -->
-<p>
-  <img alt="Node.js" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img alt="Express" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
-  <img alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-  <img alt="PostgreSQL" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-  <img alt="Supabase" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" />
-  <img alt="Prisma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
+---
+
+### 📈 Stats & Activity
+
+<p align="center">
+   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DamianToromanovic&theme=react-dark&hide_border=true&area=true" />
+  <img height="250em" witdh="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DamianToromanovic&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+
 </p>
 
-  <!-- DevOps -->
-<p>
-  <img alt="Docker" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  <img alt="GitHub Actions" width="35px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" />
-  <img alt="Vercel" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" />
+---
+
+### 🧠 Focus Areas
+- 🏗️ **Scalable Architectures**: Building systems that don't just work, but last.
+- 🔐 **Security & Auth**: Deep dives into JWT, OAuth2, and secure API design.
+- 📱 **Mobile Performance**: Crafting smooth experiences with React Native.
+- ⚡ **Efficiency**: I treat my code like a pro-match: every move must be precise and optimized.
+
+---
+
+### 📫 Connect with me
+<p align="left">
+<a href="mailto:d.toromanovic@web.de"><img src="https://img.shields.io/badge/Email-d.toromanovic%40web.de-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/d-toromanovic"><img src="https://img.shields.io/badge/LinkedIn-Damian_Toromanovic-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
-</div>
 
----
-
-### 🧠 **Focus Areas**
-- Scalable Backend Architectures & API-first Design  
-- Authentication & Security (JWT, Refresh Tokens, OAuth2)  
-- Relational & NoSQL Databases (PostgreSQL, MongoDB, Supabase)  
-- Real-time Applications (Socket.io, Live Collaboration)  
-- Mobile Development with **React Native**  
-- SaaS & ERP Solutions for SMEs  
-
----
-
-### 🌍 **About Me**
-I’m Damian, a **former professional handball player** turned fullstack developer.  
-The discipline, teamwork, and resilience from my sports career now fuel my coding journey.  
-
-I focus on **building scalable, production-ready applications** — from SaaS platforms to mobile apps.  
-
----
-
-### 📍 **From:**  
-🇩🇪 Germany | 🇧🇦 Bosnia  
-
----
-
-### 📬 **Contact**
-[📧 d.toromanovic@web.de](mailto:d.toromanovic@web.de) • [LinkedIn](https://linkedin.com/in/...)   
-
----
-
-
-
-
+<p align="center">
+  <i>"Discipline eats motivation for breakfast."</i> 🤾‍♂️🚀
+</p>
