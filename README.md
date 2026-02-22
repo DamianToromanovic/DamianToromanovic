@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Damian | Code & Competition 
+# 👋 Hi, I'm Damian
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DamianToromanovic&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -6,8 +6,9 @@
 
 ---
 
+
 ### 🚀 About Me
-- 🏆 **Ex-Professional Athlete**: 6 years in the 2nd Handball Bundesliga. I bring pro-level discipline and teamwork to the terminal.
+- 🏅 **Ex-Professional Athlete**: 6 years in the 2nd Handball Bundesliga. I bring pro-level discipline and teamwork to the terminal.
 - 💻 **Fullstack Developer**: Passionate about building robust, scalable applications and clean architectures.
 - 📚 **CS Student**: Combining deep practical experience with academic foundations (starting 03/26).
 
@@ -33,12 +34,15 @@
 
 ---
 
-### 📈 Stats & Activity
+
+### 📈 Activity & Stats
+<p align="left">
+  <img src="https://img.shields.io/badge/Main_Stack-TypeScript_%26_React-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Daily_Coding_Streak-Active-success?style=for-the-badge">
+</p>
 
 <p align="center">
-   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DamianToromanovic&theme=react-dark&hide_border=true&area=true" />
-  <img height="250em" witdh="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DamianToromanovic&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DamianToromanovic&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
