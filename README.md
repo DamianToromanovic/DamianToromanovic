@@ -7,12 +7,6 @@
 ---
 
 
-### 🚀 About Me
-- 🏅 **Ex-Professional Athlete**: 6 years in the 2nd Handball Bundesliga. I bring pro-level discipline and teamwork to the terminal.
-- 💻 **Fullstack Developer**: Passionate about building robust, scalable applications and clean architectures.
-- 📚 **CS Student**: Combining deep practical experience with academic foundations (starting 03/26).
-
----
 
 ### 🛠️ My Toolbox
 
