@@ -55,6 +55,3 @@
 <a href="https://linkedin.com/in/d-toromanovic"><img src="https://img.shields.io/badge/LinkedIn-Damian_Toromanovic-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <i>"Discipline eats motivation for breakfast."</i> 🤾‍♂️🚀
-</p>
